@@ -2,9 +2,9 @@
 
 I'm a student at EPITECH Nantes.
 
-I'm a C/C++/Java/PHP/JS developper, but I'm also learning many others languages.
+I'm a C/C++/Java/PHP/JS developer, but I'm also learning many others languages.
 
-I'm also a developper for the enterprise "Projet2Team".
+I'm also a developer for the enterprise "Projet2Team".
 
 <!--
 **EternalRat/EternalRat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
