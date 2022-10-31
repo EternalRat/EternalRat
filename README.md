@@ -2,9 +2,10 @@
 
 I'm a student at EPITECH Nantes.
 
-I'm a C/C++/Java/PHP/JS developer, but I'm also learning many others languages.
+I'm loving JS languages such as ReactJS/React Native, NodeJS.
 
-I'm also a developer for the enterprise "Projet2Team".
+I'm a full stack developer but I have a preference for the backend part <3
+
 
 <p align='center'>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=EternalRat&count_private=true&show_icons=true&include_all_commits=true&theme=synthwave"></a>
