@@ -2,7 +2,7 @@
 
 I'm a student at EPITECH Nantes.
 
-I'm loving JS languages such as ReactJS/React Native, NodeJS.
+I'm loving JS languages and actually being a ReactJS/React Native, NodeJS developer.
 
 I'm a full stack developer but I have a preference for the backend part <3
 
