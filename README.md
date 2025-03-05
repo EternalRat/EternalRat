@@ -18,5 +18,5 @@ Currently I'm able to do things in :
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=EternalRat&show_icons=true&theme=holi"></a>
 </p>
 <p align='center'>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EternalRat&hide=shaderlab,css,hlsl,cmake&langs_count=6&layout=compact&theme=synthwave"></a>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EternalRat&hide=shaderlab,css,hlsl,cmake&langs_count=6&layout=compact&theme=holi"></a>
 </p>
